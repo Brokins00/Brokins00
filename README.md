@@ -40,9 +40,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=github,javascript,typescript,java" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=lua,node" />
+    <img src="https://skillicons.dev/icons?i=github,javascript,typescript,java,lua" />
 </div>
 
 <br/>

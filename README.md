@@ -80,7 +80,7 @@
 <hr>
 <h3> ✍️ Random Dev Quote</h3>
 <div align="center">
-    <iframe src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></iframe>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 <hr/>
 

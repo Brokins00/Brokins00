@@ -78,8 +78,8 @@
 <br/>
 
 <hr>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3> ✍️ Random Dev Quote</h3>
+<iframe href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 <hr/>
 
 <div align="center">

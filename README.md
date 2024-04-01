@@ -39,8 +39,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode" />
-<br/>
+    <br/>
     <img src="https://skillicons.dev/icons?i=github,javascript,typescript,java" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=lua,node" />
 </div>
 
 <br/>

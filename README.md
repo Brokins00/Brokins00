@@ -79,7 +79,9 @@
 
 <hr>
 <h3> ✍️ Random Dev Quote</h3>
-<iframe href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<div align="center"
+    <iframe src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></iframe>
+</div>
 <hr/>
 
 <div align="center">

@@ -79,8 +79,8 @@
 
 <hr>
 <h3> ✍️ Random Dev Quote</h3>
-<div align="center"
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<div align="center">
+    <iframe src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></iframe>
 </div>
 <hr/>
 
@@ -101,5 +101,5 @@
 </div>
 
 <hr/>
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/brokins00)
+<h2> 💰 You can help me by Donating</h2>
+<a href="https://paypal.me/brokins00"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>

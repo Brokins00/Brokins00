@@ -24,7 +24,7 @@
 📫 How to reach me **brokins2000@gmail.com**
 
  </div>
- 
+ <hr>
 <div align="center"> 
     <h3 align="center">Connect with me:</h3>
 <p align="center">
